@@ -2,5 +2,5 @@
 **Work 1** <br>
 < https://github.com/suphanuchv4/Big_Data_663020270-1/blob/main/663020270_1_STAT_SC663402_Pandas_Review.ipynb > 
 
-**Project Part1** <br>
+**Project1 Part1** <br>
 < https://github.com/suphanuchv4/Big_Data_663020270-1/blob/main/Part1_Project1_Text_Analytics69.ipynb >
